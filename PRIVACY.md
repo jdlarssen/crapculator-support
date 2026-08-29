@@ -1,14 +1,11 @@
-# Crapculator — Privacy Policy
+# Crapculator privacy policy
 
-**Effective date: 29 August 2026**
+**Effective date: 30 August 2026**
 
-Crapculator does not collect, store, transmit, share, or sell any personal data. None.
+Crapculator does not collect any data. Not personal data, not usage data, not even crash reports. There is nothing to opt out of, because there is nothing to opt into.
 
-- **No data collection.** The app has no analytics, no tracking, no advertising, and no user accounts.
-- **No network access.** The app does not connect to the internet at all. Everything happens on your device.
-- **Local settings only.** Your preferences (such as the display shift and accent colour) and game progress are stored locally on your device and never leave it. Deleting the app deletes them.
-- **No third parties.** No third-party services, SDKs, or frameworks that collect data are used.
+The app has no analytics, no tracking, no ads, and no user accounts. It never connects to the internet. Your settings (the display shift and the accent colour) and your game progress are saved on your device and stay there. Deleting the app deletes them. There are no third-party SDKs.
 
-Since no data is collected, there is nothing to request a copy of, correct, or delete — but if you have questions about this policy, you can [open an issue](https://github.com/jdlarssen/crapculator-support/issues).
+Since nothing is collected, there is nothing to request a copy of or ask us to delete. If you have questions about this policy anyway, [open an issue](https://github.com/jdlarssen/crapculator-support/issues).
 
-If this policy ever changes, the change will be published here with a new effective date.
+If this policy ever changes, the new version will be published here with a new effective date.

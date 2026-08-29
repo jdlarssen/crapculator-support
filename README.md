@@ -1,15 +1,15 @@
-# Crapculator — Support
+# Crapculator support
 
-Crapculator is a calculator with opinions. It is available for iPhone and iPad on the App Store.
+Crapculator is a calculator with opinions. It runs on iPhone and iPad.
 
 ## The calculator refuses to do what I ask
 
-Working as intended. Please consult the memos, post-its, and disclosures the device provides. Every round is provably solvable — the audit department has checked.
+Working as intended. New policies announce themselves as you trip over them, and the Grievances drawer keeps a list of everything you have discovered so far. Every round can be solved. The audit department has checked.
 
 ## Something is actually broken
 
-If the app crashes, misbehaves in a way that does not feel deliberate, or a round genuinely cannot be solved, please [open an issue](https://github.com/jdlarssen/crapculator-support/issues). Include your device model, iOS version, and what the display said. Bug reports are processed in the order management deems appropriate.
+If the app crashes, or a round genuinely cannot be solved, [open an issue](https://github.com/jdlarssen/crapculator-support/issues). Say which device and iOS version you have, and what the display said. Bug reports are processed in the order management deems appropriate.
 
 ## Privacy
 
-Crapculator collects no data whatsoever. See the [privacy policy](PRIVACY.md).
+Crapculator collects no data at all. See the [privacy policy](PRIVACY.md).
